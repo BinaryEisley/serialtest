@@ -1,0 +1,7 @@
+serial:
+  port_name: /dev/ttyUSB0  # 根据实际情况修改
+  baud_rate: 115200
+  data_bits: 8
+  parity: 0               # 0:None, 1:Odd, 2:Even
+  stop_bits: 1
+  flow_control: 0         # 0:None
